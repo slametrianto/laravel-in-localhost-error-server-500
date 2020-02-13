@@ -55,3 +55,9 @@ PUSHER_APP_CLUSTER=mt1
 
 MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
+
+
+#### membuat controller dan model 
+ #php artisan make:controller StudentsController -r -m Student
+ 
+ #php artisan help make:controller
