@@ -3,6 +3,7 @@
 
 - composer install
 - env
+- php artisan key:generate
 
 
 
